@@ -1,0 +1,17 @@
+1.  Make Directory.         mkdir periodic_table
+2.  Change directory.      cd periodic_table
+3.  Initiate a git.         git init
+4.  Create a main branch.   git branch main
+5.  Check the branch.       git status
+6.  Split the terminal.     icon near trash button
+7.  Start psql server.      --username=freecodecamp --dbname=periodic_table
+8.  Connect to DB.          /c periodic_table
+9.  Display all tables.     /d
+10. 
+
+5 commits
+git commit -m "fix: the tables are corrected"
+git commit -m "feat: A function is addded"
+git commit -m "refactor: Improved code in the script"
+git commit -m "chore: improved readability"
+git commit -m "test: final commit before completion"
